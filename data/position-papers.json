@@ -1,0 +1,927 @@
+{
+  "note": "Each position paper the WHO routine immunization summary tables cite, keyed by its printed Weekly Epidemiological Record citation and resolved to a WHO IRIS item by tools/resolve-links.mjs. Network lookups, committed so the build runs offline and records what IRIS said and when.",
+  "resolvedAt": "2026-10-08",
+  "papers": {
+    "WER 2011, 86:241-256": {
+      "printedAs": [
+        "Position paper reference: Weekly Epid. Record (2011, 86: 241-256).",
+        "Vaccines against tick-borne encephalitis, WHO position paper, Weekly Epidemiological Record, 2011, 86: 241-256"
+      ],
+      "citedFrom": [
+        "summary-table-1 footnote 14 (p. 10)",
+        "summary-table-2 footnote 14 (p. 11)",
+        "summary-table-3 footnote 14 (p. 6)",
+        "summary-table-4 reference 18 (p. 2)"
+      ],
+      "topic": "Tick-Borne Encephalitis (TBE)",
+      "links": [
+        {
+          "href": "https://www.who.int/publications/i/item/vaccines-against-tick-borne-encephalitis-who-position-paper",
+          "via": "IRIS download link on the who.int publication page",
+          "handle": "10665/241769",
+          "title": "Vaccines against tick-borne encephalitis : WHO position paper = Note de synthèse : position de l'OMS sur les vaccins contre l'encéphalite à tiques",
+          "issued": "2011-12-31"
+        },
+        {
+          "href": "https://www.who.int/publications/i/item/WHO-WER8624",
+          "via": "IRIS download link on the who.int publication page",
+          "handle": "10665/241769",
+          "title": "Vaccines against tick-borne encephalitis : WHO position paper = Note de synthèse : position de l'OMS sur les vaccins contre l'encéphalite à tiques",
+          "issued": "2011-12-31"
+        }
+      ],
+      "status": "resolved",
+      "via": "IRIS download link on the who.int publication page",
+      "href": "https://www.who.int/publications/i/item/vaccines-against-tick-borne-encephalitis-who-position-paper",
+      "handle": "10665/241769",
+      "title": "Vaccines against tick-borne encephalitis : WHO position paper = Note de synthèse : position de l'OMS sur les vaccins contre l'encéphalite à tiques",
+      "issued": "2011-12-31"
+    },
+    "WER 2011, 86:521-540": {
+      "printedAs": [
+        "Position paper references: Weekly Epid. Record (2011, 86: 521-540); Updated guidance for",
+        "Position paper references: Weekly Epid. Record (2011, 86: 521-540); Updated guidance for MenA",
+        "Meningococcal vaccines, WHO position paper, Weekly Epidemiological Record, 2011, 86: 521-540"
+      ],
+      "citedFrom": [
+        "summary-table-1 footnote 17 (p. 11)",
+        "summary-table-2 footnote 17 (p. 12)",
+        "summary-table-3 footnote 17 (p. 7)",
+        "summary-table-4 reference 7 (p. 2)"
+      ],
+      "topic": "Meningococcal",
+      "links": [
+        {
+          "href": "https://www.who.int/publications/i/item/meningococcal-vaccines-who-position-paper-november-2011",
+          "via": "IRIS download link on the who.int publication page",
+          "handle": "10665/241846",
+          "title": "Meningococcal vaccines : WHO position paper, November 2011 = Note de synthèse : position de l’OMS sur les vaccins antiméningococciques, novembre 2011",
+          "issued": "2011-12-31"
+        }
+      ],
+      "status": "resolved",
+      "via": "IRIS download link on the who.int publication page",
+      "href": "https://www.who.int/publications/i/item/meningococcal-vaccines-who-position-paper-november-2011",
+      "handle": "10665/241846",
+      "title": "Meningococcal vaccines : WHO position paper, November 2011 = Note de synthèse : position de l’OMS sur les vaccins antiméningococciques, novembre 2011",
+      "issued": "2011-12-31"
+    },
+    "WER 2013, 88:269-284": {
+      "printedAs": [
+        "Position paper reference: Weekly Epid. Record (2013, 88: 269-284).",
+        "Vaccines and vaccination against yellow fever, WHO position paper, Weekly Epidemiological Record, 2013, 88: 269-284"
+      ],
+      "citedFrom": [
+        "summary-table-1 footnote 13 (p. 9)",
+        "summary-table-2 footnote 13 (p. 10)",
+        "summary-table-3 footnote 13 (p. 6)",
+        "summary-table-4 reference 17 (p. 2)"
+      ],
+      "topic": "Yellow Fever",
+      "links": [
+        {
+          "href": "https://apps.who.int/iris/handle/10665/242089",
+          "via": "handle in the link",
+          "handle": "10665/242089",
+          "title": "Vaccines and vaccination against yellow fever : WHO Position Paper — June 2013 = Note de synthèse : position de l’OMS sur les vaccins et la vaccination contre la fièvre jaune, juin 2013",
+          "issued": "2013-12-31"
+        }
+      ],
+      "status": "resolved",
+      "via": "handle in the link",
+      "href": "https://apps.who.int/iris/handle/10665/242089",
+      "handle": "10665/242089",
+      "title": "Vaccines and vaccination against yellow fever : WHO Position Paper — June 2013 = Note de synthèse : position de l’OMS sur les vaccins et la vaccination contre la fièvre jaune, juin 2013",
+      "issued": "2013-12-31"
+    },
+    "WER 2013, 88:413-428": {
+      "printedAs": [
+        "Position paper reference: Weekly Epid. Record (2013, 88: 413-428).",
+        "Haemophilus inﬂuenzae type b (Hib) vaccination, WHO position paper, Weekly Epidemiological Record, 2013, 88: 413-428"
+      ],
+      "citedFrom": [
+        "summary-table-1 footnote 6 (p. 6)",
+        "summary-table-2 footnote 6 (p. 7)",
+        "summary-table-3 footnote 6 (p. 5)",
+        "summary-table-4 reference 12 (p. 2)"
+      ],
+      "topic": "Haemophilus influenzae type b (Hib)",
+      "links": [
+        {
+          "href": "https://www.who.int/teams/immunization-vaccines-and-biologicals/policies/position-papers/haemophilus-influenzae-type-b",
+          "unresolved": "a who.int topic page, listing every position paper on the antigen"
+        }
+      ],
+      "search": {
+        "query": "Haemophilus influenzae type b position paper",
+        "hits": [
+          {
+            "handle": "10665/242126",
+            "title": "Haemophilus influenzae type b (Hib) Vaccination Position Paper — July 2013 : Introduction = Note de synthèse : Position de l’OMS sur la vaccination anti-Haemophilus influenzae type b (Hib) — Juillet 2013 : Introduction",
+            "issued": "2013-12-31"
+          }
+        ]
+      },
+      "status": "resolved",
+      "via": "search",
+      "handle": "10665/242126",
+      "title": "Haemophilus influenzae type b (Hib) Vaccination Position Paper — July 2013 : Introduction = Note de synthèse : Position de l’OMS sur la vaccination anti-Haemophilus influenzae type b (Hib) — Juillet 2013 : Introduction",
+      "issued": "2013-12-31"
+    },
+    "WER 2015, 90:433-460": {
+      "printedAs": [
+        "Weekly Epid. Record (2015, 90: 433- 460).",
+        "Weekly Epid. Record (2015, 90: 433-460).",
+        "Pertussis vaccines, WHO position paper, Weekly Epidemiological Record, 2015, 90: 433-460"
+      ],
+      "citedFrom": [
+        "summary-table-1 footnote 5 (p. 6)",
+        "summary-table-2 footnote 5 (p. 7)",
+        "summary-table-3 footnote 5 (p. 4)",
+        "summary-table-4 reference 10 (p. 2)"
+      ],
+      "topic": "DTP-containing vaccine (Diphtheria, Tetanus, Pertussis)",
+      "links": [
+        {
+          "href": "https://www.who.int/teams/immunization-vaccines-and-biologicals/policies/position-papers/pertussis",
+          "unresolved": "a who.int topic page, listing every position paper on the antigen"
+        }
+      ],
+      "search": {
+        "query": "Pertussis vaccines position paper",
+        "hits": [
+          {
+            "handle": "10665/242413",
+            "title": "Pertussis vaccines : WHO position paper — August 2015 = Note de synthèse : Position de l’OMS concernant les vaccins anticoquelucheux — août 2015",
+            "issued": "2015-12-31"
+          }
+        ]
+      },
+      "status": "resolved",
+      "via": "search",
+      "handle": "10665/242413",
+      "title": "Pertussis vaccines : WHO position paper — August 2015 = Note de synthèse : Position de l’OMS concernant les vaccins anticoquelucheux — août 2015",
+      "issued": "2015-12-31"
+    },
+    "WER 2015, 90:57-68": {
+      "printedAs": [
+        "MenA conjugate - Weekly Epid. Record (2015, 90: 57-68); Updated guidance for",
+        "conjugate - Weekly Epid. Record (2015, 90: 57-68); Updated guidance for multivalent"
+      ],
+      "citedFrom": [
+        "summary-table-1 footnote 17 (p. 11)",
+        "summary-table-2 footnote 17 (p. 12)",
+        "summary-table-3 footnote 17 (p. 7)"
+      ],
+      "topic": "Meningococcal",
+      "links": [
+        {
+          "href": "https://www.who.int/publications/i/item/WHO-WER9008-57-62",
+          "via": "IRIS download link on the who.int publication page",
+          "handle": "10665/242320",
+          "title": "Meningococcal A conjugate vaccine : updated guidance, February 2015 = Vaccin antiméningococcique conjugué contre le sérogroupe A : orientations actualisées, février 2015",
+          "issued": "2015-02-20"
+        }
+      ],
+      "status": "resolved",
+      "via": "IRIS download link on the who.int publication page",
+      "href": "https://www.who.int/publications/i/item/WHO-WER9008-57-62",
+      "handle": "10665/242320",
+      "title": "Meningococcal A conjugate vaccine : updated guidance, February 2015 = Vaccin antiméningococcique conjugué contre le sérogroupe A : orientations actualisées, février 2015",
+      "issued": "2015-02-20"
+    },
+    "WER 2015, 90:69-88": {
+      "printedAs": [
+        "Position paper reference: Weekly Epid. Record (2015, 90: 69-88).",
+        "Japanese encephalitis vaccines, WHO position paper, Weekly Epidemiological Record, 2015, 90: 69-88"
+      ],
+      "citedFrom": [
+        "summary-table-1 footnote 12 (p. 9)",
+        "summary-table-2 footnote 12 (p. 10)",
+        "summary-table-3 footnote 12 (p. 6)",
+        "summary-table-4 reference 16 (p. 2)"
+      ],
+      "topic": "Japanese Encephalitis",
+      "links": [
+        {
+          "href": "https://www.who.int/publications/i/item/japanese-encephalitis-vaccines-who-position-paper",
+          "via": "IRIS download link on the who.int publication page",
+          "handle": "10665/242325",
+          "title": "Japanese Encephalitis Vaccines : WHO position paper — February 2015 = Note de synthèse : position de l’OMS à propos des vaccins contre l’encéphalite japonaise — février 2015",
+          "issued": "2015-02-27"
+        }
+      ],
+      "status": "resolved",
+      "via": "IRIS download link on the who.int publication page",
+      "href": "https://www.who.int/publications/i/item/japanese-encephalitis-vaccines-who-position-paper",
+      "handle": "10665/242325",
+      "title": "Japanese Encephalitis Vaccines : WHO position paper — February 2015 = Note de synthèse : position de l’OMS à propos des vaccins contre l’encéphalite japonaise — février 2015",
+      "issued": "2015-02-27"
+    },
+    "WER 2017, 92:205-228": {
+      "printedAs": [
+        "Position paper reference: Weekly Epid. Record (2017, 92: 205-228).",
+        "Measles, WHO Position Paper: Weekly Epidemiological Record 2017, 92:205-228"
+      ],
+      "citedFrom": [
+        "summary-table-1 footnote 9 (p. 8)",
+        "summary-table-2 footnote 9 (p. 9)",
+        "summary-table-3 footnote 9 (p. 5)",
+        "summary-table-4 reference 5 (p. 2)"
+      ],
+      "topic": "Measles",
+      "links": [
+        {
+          "href": "https://www.who.int/teams/immunization-vaccines-and-biologicals/policies/position-papers/measles",
+          "unresolved": "a who.int topic page, listing every position paper on the antigen"
+        },
+        {
+          "href": "http://apps.who.int/iris/bitstream/10665/255149/1/WER9217.pdf",
+          "via": "handle in the link",
+          "handle": "10665/255149",
+          "title": "Weekly Epidemiological Record, 2017, vol. 92, 17 [full issue]",
+          "issued": "2017-04-28"
+        }
+      ],
+      "status": "resolved",
+      "via": "handle in the link",
+      "href": "http://apps.who.int/iris/bitstream/10665/255149/1/WER9217.pdf",
+      "handle": "10665/255149",
+      "title": "Weekly Epidemiological Record, 2017, vol. 92, 17 [full issue]",
+      "issued": "2017-04-28"
+    },
+    "WER 2017, 92:369-392": {
+      "printedAs": [
+        "Position paper reference: Weekly Epid. Record (2017, 92:369-392).",
+        "Hepatitis B, WHO Position Paper, Weekly Epidemiological Record 2017, 92:369-392"
+      ],
+      "citedFrom": [
+        "summary-table-1 footnote 3 (p. 5)",
+        "summary-table-2 footnote 3 (p. 6)",
+        "summary-table-3 footnote 3 (p. 4)",
+        "summary-table-4 reference 2 (p. 2)"
+      ],
+      "topic": "Hepatitis B",
+      "links": [
+        {
+          "href": "http://apps.who.int/iris/bitstream/handle/10665/255841/WER9227.pdf",
+          "via": "handle in the link",
+          "handle": "10665/255841",
+          "title": "Weekly Epidemiological Record, 2017, vol. 92, 27 [full issue]",
+          "issued": "2017-07-07"
+        },
+        {
+          "href": "http://apps.who.int/iris/bitstream/10665/255841/1/WER9227.pdf",
+          "via": "handle in the link",
+          "handle": "10665/255841",
+          "title": "Weekly Epidemiological Record, 2017, vol. 92, 27 [full issue]",
+          "issued": "2017-07-07"
+        }
+      ],
+      "status": "resolved",
+      "via": "handle in the link",
+      "href": "http://apps.who.int/iris/bitstream/handle/10665/255841/WER9227.pdf",
+      "handle": "10665/255841",
+      "title": "Weekly Epidemiological Record, 2017, vol. 92, 27 [full issue]",
+      "issued": "2017-07-07"
+    },
+    "WER 2017, 92:417-436": {
+      "printedAs": [
+        "Position paper reference: Diphtheria – Weekly Epid. Record (2017, 92:417-436); Tetanus -",
+        "Diphtheria, WHO position paper, Weekly Epidemiological Record, 2017, 92:417-436"
+      ],
+      "citedFrom": [
+        "summary-table-1 footnote 5 (p. 6)",
+        "summary-table-2 footnote 5 (p. 7)",
+        "summary-table-3 footnote 5 (p. 4)",
+        "summary-table-4 reference 4 (p. 2)"
+      ],
+      "topic": "DTP-containing vaccine (Diphtheria, Tetanus, Pertussis)",
+      "links": [
+        {
+          "href": "http://apps.who.int/iris/bitstream/10665/258681/1/WER9231.pdf",
+          "via": "handle in the link",
+          "handle": "10665/258681",
+          "title": "Weekly Epidemiological Record, 2017, vol. 92, 31 [full issue]",
+          "issued": "2017-08-04"
+        }
+      ],
+      "status": "resolved",
+      "via": "handle in the link",
+      "href": "http://apps.who.int/iris/bitstream/10665/258681/1/WER9231.pdf",
+      "handle": "10665/258681",
+      "title": "Weekly Epidemiological Record, 2017, vol. 92, 31 [full issue]",
+      "issued": "2017-08-04"
+    },
+    "WER 2017, 92:477-500": {
+      "printedAs": [
+        "Position paper reference: Weekly Epid. Record (2017, 92:477-500).",
+        "Cholera vaccines, WHO position paper, Weekly Epidemiological Record, 2017, 92:477-500"
+      ],
+      "citedFrom": [
+        "summary-table-1 footnote 16 (p. 10)",
+        "summary-table-2 footnote 16 (p. 11)",
+        "summary-table-3 footnote 16 (p. 7)",
+        "summary-table-4 reference 20 (p. 2)"
+      ],
+      "topic": "Cholera",
+      "links": [
+        {
+          "href": "https://apps.who.int/iris/handle/10665/258764",
+          "via": "handle in the link",
+          "handle": "10665/258764",
+          "title": "Cholera vaccines: WHO position paper – August 2017 – Vaccins anticholériques: Note de synthèse de l’OMS – août 2017",
+          "issued": "2017-08-25"
+        },
+        {
+          "href": "http://apps.who.int/iris/bitstream/10665/258763/1/WER9234.pdf",
+          "via": "handle in the link",
+          "handle": "10665/258763",
+          "title": "Weekly Epidemiological Record, 2017, vol. 92, 34 [full issue]",
+          "issued": "2017-08-25"
+        }
+      ],
+      "status": "resolved",
+      "via": "handle in the link",
+      "href": "https://apps.who.int/iris/handle/10665/258764",
+      "handle": "10665/258764",
+      "title": "Cholera vaccines: WHO position paper – August 2017 – Vaccins anticholériques: Note de synthèse de l’OMS – août 2017",
+      "issued": "2017-08-25",
+      "rejected": [
+        {
+          "handle": "10665/258763",
+          "title": "Weekly Epidemiological Record, 2017, vol. 92, 34 [full issue]",
+          "issued": "2017-08-25",
+          "why": "the full WER issue containing the paper, where the paper itself is also linked"
+        }
+      ]
+    },
+    "WER 2017, 92:53-76": {
+      "printedAs": [
+        "Weekly Epid. Record (2017, 92: 53-76); Pertussis -",
+        "Tetanus vaccine, WHO position paper, Weekly Epidemiological Record, 2017, 92: 53-76"
+      ],
+      "citedFrom": [
+        "summary-table-1 footnote 5 (p. 6)",
+        "summary-table-2 footnote 5 (p. 7)",
+        "summary-table-3 footnote 5 (p. 4)",
+        "summary-table-4 reference 11 (p. 2)"
+      ],
+      "topic": "DTP-containing vaccine (Diphtheria, Tetanus, Pertussis)",
+      "links": [
+        {
+          "href": "http://apps.who.int/iris/bitstream/10665/254582/1/WER9206.pdf",
+          "via": "handle in the link",
+          "handle": "10665/254582",
+          "title": "Weekly Epidemiological Record, 2017, vol. 92, 06 [full issue]",
+          "issued": "2017-02-10"
+        }
+      ],
+      "status": "resolved",
+      "via": "handle in the link",
+      "href": "http://apps.who.int/iris/bitstream/10665/254582/1/WER9206.pdf",
+      "handle": "10665/254582",
+      "title": "Weekly Epidemiological Record, 2017, vol. 92, 06 [full issue]",
+      "issued": "2017-02-10"
+    },
+    "WER 2018, 93:153-172": {
+      "printedAs": [
+        "Position paper reference: Weekly Epid. Record (2018, 93: 153-172)",
+        "Typhoid vaccines, WHO position paper, Weekly Epidemiological Record, 2018, 93: 153-172"
+      ],
+      "citedFrom": [
+        "summary-table-1 footnote 15 (p. 10)",
+        "summary-table-2 footnote 15 (p. 11)",
+        "summary-table-3 footnote 15 (p. 6)",
+        "summary-table-4 reference 19 (p. 2)"
+      ],
+      "topic": "Typhoid",
+      "links": [
+        {
+          "href": "https://www.who.int/publications/i/item/typhoid-vaccines-who-position-paper-march-2018",
+          "via": "IRIS download link on the who.int publication page",
+          "handle": "10665/272272",
+          "title": "Weekly Epidemiological Record, 2018, vol. 93, 13 [full issue]",
+          "issued": "2018-03-30"
+        }
+      ],
+      "status": "resolved",
+      "via": "IRIS download link on the who.int publication page",
+      "href": "https://www.who.int/publications/i/item/typhoid-vaccines-who-position-paper-march-2018",
+      "handle": "10665/272272",
+      "title": "Weekly Epidemiological Record, 2018, vol. 93, 13 [full issue]",
+      "issued": "2018-03-30"
+    },
+    "WER 2018, 93:201-220": {
+      "printedAs": [
+        "Position paper reference: Weekly Epid. Record (2018, 93: 201-220).",
+        "Rabies vaccines, WHO position paper, Weekly Epidemiological Record, 2018, 93: 201-220"
+      ],
+      "citedFrom": [
+        "summary-table-1 footnote 19 (p. 11)",
+        "summary-table-2 footnote 19 (p. 12)",
+        "summary-table-3 footnote 19 (p. 7)",
+        "summary-table-4 reference 22 (p. 2)"
+      ],
+      "topic": "Rabies",
+      "links": [
+        {
+          "href": "https://www.who.int/publications/i/item/who-wer9316",
+          "via": "IRIS download link on the who.int publication page",
+          "handle": "10665/272372",
+          "title": "Rabies vaccines: WHO position paper – April 2018 – Vaccins antirabiques: Note de synthèse de l’OMS – avril 2018",
+          "issued": "2018-04-20"
+        },
+        {
+          "href": "http://apps.who.int/iris/bitstream/handle/10665/272371/WER9316.pdf",
+          "via": "handle in the link",
+          "handle": "10665/272371",
+          "title": "Weekly Epidemiological Record, 2018, vol. 93, 16 [full issue]",
+          "issued": "2018-04-20"
+        }
+      ],
+      "status": "resolved",
+      "via": "IRIS download link on the who.int publication page",
+      "href": "https://www.who.int/publications/i/item/who-wer9316",
+      "handle": "10665/272372",
+      "title": "Rabies vaccines: WHO position paper – April 2018 – Vaccins antirabiques: Note de synthèse de l’OMS – avril 2018",
+      "issued": "2018-04-20",
+      "rejected": [
+        {
+          "handle": "10665/272371",
+          "title": "Weekly Epidemiological Record, 2018, vol. 93, 16 [full issue]",
+          "issued": "2018-04-20",
+          "why": "the full WER issue containing the paper, where the paper itself is also linked"
+        }
+      ]
+    },
+    "WER 2018, 93:73-96": {
+      "printedAs": [
+        "Position paper reference: Weekly Epid. Record (2018, 93:73-96).",
+        "BCG vaccine, WHO position paper, Weekly Epidemiological Record, 2018, 93:73-96"
+      ],
+      "citedFrom": [
+        "summary-table-1 footnote 2 (p. 4)",
+        "summary-table-2 footnote 2 (p. 5)",
+        "summary-table-3 footnote 2 (p. 4)",
+        "summary-table-4 reference 1 (p. 2)"
+      ],
+      "topic": "BCG",
+      "links": [
+        {
+          "href": "http://apps.who.int/iris/bitstream/handle/10665/260306/WER9308.pdf",
+          "via": "handle in the link",
+          "handle": "10665/260306",
+          "title": "Weekly Epidemiological Record, 2018, vol. 93, 08 [full issue]",
+          "issued": "2018-02-23"
+        },
+        {
+          "href": "http://apps.who.int/iris/bitstream/10665/260306/1/WER9308.pdf",
+          "via": "handle in the link",
+          "handle": "10665/260306",
+          "title": "Weekly Epidemiological Record, 2018, vol. 93, 08 [full issue]",
+          "issued": "2018-02-23"
+        }
+      ],
+      "status": "resolved",
+      "via": "handle in the link",
+      "href": "http://apps.who.int/iris/bitstream/handle/10665/260306/WER9308.pdf",
+      "handle": "10665/260306",
+      "title": "Weekly Epidemiological Record, 2018, vol. 93, 08 [full issue]",
+      "issued": "2018-02-23"
+    },
+    "WER 2020, 95:301-324": {
+      "printedAs": [
+        "Position paper reference: Weekly Epid. Record (2020, 95: 301-324).",
+        "Rubella, WHO Position paper, Weekly Epidemiological Record 2020, 95: 301-324"
+      ],
+      "citedFrom": [
+        "summary-table-1 footnote 10 (p. 8)",
+        "summary-table-2 footnote 10 (p. 9)",
+        "summary-table-3 footnote 10 (p. 5)",
+        "summary-table-4 reference 6 (p. 2)"
+      ],
+      "topic": "Rubella",
+      "links": [
+        {
+          "href": "https://www.who.int/publications/i/item/WHO-WER9527",
+          "via": "IRIS download link on the who.int publication page",
+          "handle": "10665/332950",
+          "title": "Weekly Epidemiological Record, 2020, vol. 95, 27 [full issue]",
+          "issued": "2020-07-03"
+        },
+        {
+          "href": "https://apps.who.int/iris/handle/10665/332952",
+          "via": "handle in the link",
+          "handle": "10665/332952",
+          "title": "Rubella vaccines: WHO position paper – July 2020 – Note de synthèse: position de l’OMS concernant les vaccins antirubéoleux",
+          "issued": "2020-07-03"
+        }
+      ],
+      "status": "resolved",
+      "via": "handle in the link",
+      "href": "https://apps.who.int/iris/handle/10665/332952",
+      "handle": "10665/332952",
+      "title": "Rubella vaccines: WHO position paper – July 2020 – Note de synthèse: position de l’OMS concernant les vaccins antirubéoleux",
+      "issued": "2020-07-03",
+      "rejected": [
+        {
+          "handle": "10665/332950",
+          "title": "Weekly Epidemiological Record, 2020, vol. 95, 27 [full issue]",
+          "issued": "2020-07-03",
+          "why": "the full WER issue containing the paper, where the paper itself is also linked"
+        }
+      ]
+    },
+    "WER 2021, 96:301-320": {
+      "printedAs": [
+        "Position paper reference: Weekly Epid. Record (2021, 96: 301-320).",
+        "Rotavirus vaccines, WHO position paper, Weekly Epidemiological Record 2021, 96: 301-320"
+      ],
+      "citedFrom": [
+        "summary-table-1 footnote 8 (p. 7)",
+        "summary-table-2 footnote 8 (p. 8)",
+        "summary-table-3 footnote 8 (p. 5)",
+        "summary-table-4 reference 14 (p. 2)"
+      ],
+      "topic": "Rotavirus",
+      "links": [
+        {
+          "href": "https://apps.who.int/iris/bitstream/handle/10665/342904/WER9628-eng-fre.pdf",
+          "via": "handle in the link",
+          "handle": "10665/342904",
+          "title": "Weekly Epidemiological Record, 2021, vol. 96, 28 [full issue]",
+          "issued": "2021-07-16"
+        }
+      ],
+      "status": "resolved",
+      "via": "handle in the link",
+      "href": "https://apps.who.int/iris/bitstream/handle/10665/342904/WER9628-eng-fre.pdf",
+      "handle": "10665/342904",
+      "title": "Weekly Epidemiological Record, 2021, vol. 96, 28 [full issue]",
+      "issued": "2021-07-16"
+    },
+    "WER 2022, 97:185-208": {
+      "printedAs": [
+        "Position paper reference: Weekly Epid. Record (2022, 97: 185-208).",
+        "Vaccines against influenza: WHO position paper, Weekly Epidemiological Record 2022, 97: 185-208"
+      ],
+      "citedFrom": [
+        "summary-table-1 footnote 23 (p. 13)",
+        "summary-table-2 footnote 23 (p. 14)",
+        "summary-table-3 footnote 23 (p. 8)",
+        "summary-table-4 reference 8 (p. 2)"
+      ],
+      "topic": "Seasonal Influenza (Inactivated Vaccine)",
+      "links": [
+        {
+          "href": "https://www.who.int/publications/i/item/who-wer9719",
+          "via": "IRIS download link on the who.int publication page",
+          "handle": "10665/354264",
+          "title": "Weekly Epidemiological Record, 2022, vol. 97, 19 [full issue]",
+          "issued": "2022-05-13"
+        }
+      ],
+      "status": "resolved",
+      "via": "IRIS download link on the who.int publication page",
+      "href": "https://www.who.int/publications/i/item/who-wer9719",
+      "handle": "10665/354264",
+      "title": "Weekly Epidemiological Record, 2022, vol. 97, 19 [full issue]",
+      "issued": "2022-05-13"
+    },
+    "WER 2022, 97:277-300": {
+      "printedAs": [
+        "Position paper reference: Weekly Epid. Record (2022, 97:277-300).",
+        "Polio vaccines: WHO Position Paper, Weekly Epidemiological Record 2022, 97: 277-300"
+      ],
+      "citedFrom": [
+        "summary-table-1 footnote 4 (p. 5)",
+        "summary-table-2 footnote 4 (p. 6)",
+        "summary-table-3 footnote 4 (p. 4)",
+        "summary-table-4 reference 3 (p. 2)"
+      ],
+      "topic": "Polio",
+      "links": [
+        {
+          "href": "https://www.who.int/publications/i/item/WHO-WER9725-277-300",
+          "via": "IRIS download link on the who.int publication page",
+          "handle": "10665/357167",
+          "title": "Weekly Epidemiological Record, 2022, vol. 97, 25 [full issue]",
+          "issued": "2022-06-24"
+        }
+      ],
+      "status": "resolved",
+      "via": "IRIS download link on the who.int publication page",
+      "href": "https://www.who.int/publications/i/item/WHO-WER9725-277-300",
+      "handle": "10665/357167",
+      "title": "Weekly Epidemiological Record, 2022, vol. 97, 25 [full issue]",
+      "issued": "2022-06-24"
+    },
+    "WER 2022, 97:493-512": {
+      "printedAs": [
+        "Weekly Epid. Record (2022, 97: 493-512).",
+        "Hepatitis A vaccines, WHO position paper, Weekly Epidemiological Record, 2022, 97: 493-512"
+      ],
+      "citedFrom": [
+        "summary-table-1 footnote 18 (p. 11)",
+        "summary-table-2 footnote 18 (p. 12)",
+        "summary-table-3 footnote 18 (p. 7)",
+        "summary-table-4 reference 21 (p. 2)"
+      ],
+      "topic": "Hepatitis A",
+      "links": [
+        {
+          "href": "https://www.who.int/publications/i/item/who-wer9740-493-512",
+          "via": "IRIS download link on the who.int publication page",
+          "handle": "10665/363396",
+          "title": "Weekly Epidemiological Record, 2022, vol. 97, 40 [full issue]",
+          "issued": "2022-10-07"
+        }
+      ],
+      "status": "resolved",
+      "via": "IRIS download link on the who.int publication page",
+      "href": "https://www.who.int/publications/i/item/who-wer9740-493-512",
+      "handle": "10665/363396",
+      "title": "Weekly Epidemiological Record, 2022, vol. 97, 40 [full issue]",
+      "issued": "2022-10-07"
+    },
+    "WER 2022, 97:645-672": {
+      "printedAs": [
+        "Position paper reference: Weekly Epid. Record (2022, 97: 645-672).",
+        "Human Papillomavirus vaccines, WHO position paper. Weekly Epidemiological Record, 2022, 97:645-672"
+      ],
+      "citedFrom": [
+        "summary-table-1 footnote 11 (p. 9)",
+        "summary-table-2 footnote 11 (p. 10)",
+        "summary-table-3 footnote 11 (p. 6)",
+        "summary-table-4 reference 15 (p. 2)"
+      ],
+      "topic": "Human Papillomavirus (HPV)",
+      "links": [
+        {
+          "href": "https://www.who.int/teams/immunization-vaccines-and-biologicals/policies/position-papers/human-papillomavirus-%28hpv%29",
+          "unresolved": "a who.int topic page, listing every position paper on the antigen"
+        }
+      ],
+      "search": {
+        "query": "Human Papillomavirus position paper",
+        "hits": [
+          {
+            "handle": "10665/365351",
+            "title": "Human papillomavirus vaccines: WHO position paper (2022 update) –Vaccins contre les papillomavirus humains: note de synthèse de l’OMS (mise à jour de 2022)",
+            "issued": "2022-12-16"
+          }
+        ]
+      },
+      "status": "resolved",
+      "via": "search",
+      "handle": "10665/365351",
+      "title": "Human papillomavirus vaccines: WHO position paper (2022 update) –Vaccins contre les papillomavirus humains: note de synthèse de l’OMS (mise à jour de 2022)",
+      "issued": "2022-12-16"
+    },
+    "WER 2023, 98:599-620": {
+      "printedAs": [
+        "multivalent meningococcal vaccines – Weekly Epid. Record (2023, 98: 599-620); and",
+        "meningococcal vaccines – Weekly Epid. Record (2023, 98: 599-620); and"
+      ],
+      "citedFrom": [
+        "summary-table-1 footnote 17 (p. 11)",
+        "summary-table-2 footnote 17 (p. 12)",
+        "summary-table-3 footnote 17 (p. 7)"
+      ],
+      "topic": "Meningococcal",
+      "links": [
+        {
+          "href": "https://www.who.int/publications/i/item/WER-9847-599-620",
+          "via": "IRIS download link on the who.int publication page",
+          "handle": "10665/374327",
+          "title": "Weekly Epidemiological Record, 2023, vol. 98, 47 [full issue]",
+          "issued": "2023-11-24"
+        }
+      ],
+      "status": "resolved",
+      "via": "IRIS download link on the who.int publication page",
+      "href": "https://www.who.int/publications/i/item/WER-9847-599-620",
+      "handle": "10665/374327",
+      "title": "Weekly Epidemiological Record, 2023, vol. 98, 47 [full issue]",
+      "issued": "2023-11-24"
+    },
+    "WER 2024, 82:49-60": {
+      "printedAs": [
+        "Position paper reference: Weekly Epid. Record (2024, 82: 49-60).",
+        "Mumps vaccines, WHO Position Paper, Weekly Epidemiological Record, 2024, 82: 49-60"
+      ],
+      "citedFrom": [
+        "summary-table-1 footnote 22 (p. 13)",
+        "summary-table-2 footnote 22 (p. 14)",
+        "summary-table-3 footnote 22 (p. 8)",
+        "summary-table-4 reference 23 (p. 2)"
+      ],
+      "topic": "Mumps",
+      "links": [
+        {
+          "href": "https://iris.who.int/handle/10665/376287",
+          "via": "handle in the link",
+          "handle": "10665/376287",
+          "title": "Mumps vaccines = Vaccins antiourliens",
+          "issued": "2024-03-15"
+        }
+      ],
+      "status": "resolved",
+      "via": "handle in the link",
+      "href": "https://iris.who.int/handle/10665/376287",
+      "handle": "10665/376287",
+      "title": "Mumps vaccines = Vaccins antiourliens",
+      "issued": "2024-03-15"
+    },
+    "WER 2024, 99:1-10": {
+      "printedAs": [
+        "Weekly Epid. Record (2024, 99: 1-10)."
+      ],
+      "citedFrom": [
+        "summary-table-1 footnote 17 (p. 11)",
+        "summary-table-2 footnote 17 (p. 12)",
+        "summary-table-3 footnote 17 (p. 7)"
+      ],
+      "topic": "Meningococcal",
+      "links": [
+        {
+          "href": "https://iris.who.int/server/api/core/bitstreams/91e9994c-7d65-4b8d-b64b-8be3a6ea8909/content",
+          "via": "IRIS bitstream in the link",
+          "handle": "10665/375623",
+          "title": "Weekly Epidemiological Record, 2024, vol. 99, 01/02 [full issue]",
+          "issued": "2024-01-12"
+        }
+      ],
+      "status": "resolved",
+      "via": "IRIS bitstream in the link",
+      "href": "https://iris.who.int/server/api/core/bitstreams/91e9994c-7d65-4b8d-b64b-8be3a6ea8909/content",
+      "handle": "10665/375623",
+      "title": "Weekly Epidemiological Record, 2024, vol. 99, 01/02 [full issue]",
+      "issued": "2024-01-12"
+    },
+    "WER 2024, 99:203-224": {
+      "printedAs": [
+        "Position paper reference: Weekly Epid. Record (2024, 99: 203-224)",
+        "Dengue (TAK-003), WHO Position Paper, Weekly Epidemiological Record, 2024, 99: 203-224"
+      ],
+      "citedFrom": [
+        "summary-table-1 footnote 20 (p. 12)",
+        "summary-table-2 footnote 20 (p. 13)",
+        "summary-table-3 footnote 20 (p. 8)",
+        "summary-table-4 reference 24 (p. 2)"
+      ],
+      "topic": "Dengue (TAK-003)",
+      "links": [
+        {
+          "href": "https://iris.who.int/bitstream/handle/10665/376641/WER9918-eng-fre.pdf",
+          "via": "handle in the link",
+          "handle": "10665/376641",
+          "title": "Weekly Epidemiological Record, 2024, vol. 99, 18 [full issue]",
+          "issued": "2024-05-03"
+        }
+      ],
+      "status": "resolved",
+      "via": "handle in the link",
+      "href": "https://iris.who.int/bitstream/handle/10665/376641/WER9918-eng-fre.pdf",
+      "handle": "10665/376641",
+      "title": "Weekly Epidemiological Record, 2024, vol. 99, 18 [full issue]",
+      "issued": "2024-05-03"
+    },
+    "WER 2024, 99:225-248": {
+      "printedAs": [
+        "Position paper reference: Weekly Epid. Record (2024, 99: 225-248)",
+        "Malaria vaccines, WHO Position Paper, Weekly Epidemiological Record, 2024, 99: 225-248"
+      ],
+      "citedFrom": [
+        "summary-table-1 footnote 21 (p. 12)",
+        "summary-table-2 footnote 21 (p. 13)",
+        "summary-table-3 footnote 21 (p. 8)",
+        "summary-table-4 reference 25 (p. 2)"
+      ],
+      "topic": "Malaria",
+      "links": [
+        {
+          "href": "https://iris.who.int/bitstream/handle/10665/376738/WER9919-eng-fre.pdf",
+          "via": "handle in the link",
+          "handle": "10665/376738",
+          "title": "Weekly Epidemiological Record, 2024, vol. 99, 19 [full issue]",
+          "issued": "2024-05-10"
+        }
+      ],
+      "status": "resolved",
+      "via": "handle in the link",
+      "href": "https://iris.who.int/bitstream/handle/10665/376738/WER9919-eng-fre.pdf",
+      "handle": "10665/376738",
+      "title": "Weekly Epidemiological Record, 2024, vol. 99, 19 [full issue]",
+      "issued": "2024-05-10"
+    },
+    "WER 2025, 22:193-218": {
+      "printedAs": [
+        "Position paper reference: Weekly Epid. Record (2025, 22:193–218)"
+      ],
+      "citedFrom": [
+        "summary-table-1 footnote 1 (p. 4)",
+        "summary-table-2 footnote 1 (p. 5)",
+        "summary-table-3 footnote 1 (p. 4)"
+      ],
+      "topic": "Respiratory Syncytial Virus",
+      "links": [
+        {
+          "href": "https://www.who.int/publications/i/item/who-wer-10022-193-218",
+          "via": "IRIS download link on the who.int publication page",
+          "handle": "10665/381539",
+          "title": "Weekly Epidemiological Record, 2025, vol. 100, 22 [full issue]",
+          "issued": "2025-05-30"
+        }
+      ],
+      "status": "resolved",
+      "via": "IRIS download link on the who.int publication page",
+      "href": "https://www.who.int/publications/i/item/who-wer-10022-193-218",
+      "handle": "10665/381539",
+      "title": "Weekly Epidemiological Record, 2025, vol. 100, 22 [full issue]",
+      "issued": "2025-05-30",
+      "mismatch": "printed WER 2025, 22:193-218; the linked IRIS item is WER 2025, vol. 100, issue 22"
+    },
+    "WER 2025, 39:411-437": {
+      "printedAs": [
+        "Position paper reference: Weekly Epid. Record (2025, 39: 411-437).",
+        "Pneumococcal vaccines, WHO position paper, Weekly Epidemiological Record, 2025, 39: 411-437"
+      ],
+      "citedFrom": [
+        "summary-table-1 footnote 7 (p. 7)",
+        "summary-table-2 footnote 7 (p. 8)",
+        "summary-table-3 footnote 7 (p. 5)",
+        "summary-table-4 reference 13 (p. 2)"
+      ],
+      "topic": "Pneumococcal (Conjugate)",
+      "links": [
+        {
+          "href": "https://www.who.int/publications/i/item/who-wer10039-411-437",
+          "via": "IRIS download link on the who.int publication page",
+          "handle": "10665/382925",
+          "title": "WHO position paper: Pneumococcal conjugate vaccines in infants and children aged <5 years – September 2025 = Note de synthèse de l’OMS : vaccins antipneumococciques conjugués chez les nourrissons et les enfants de <5 ans – septembre 2025",
+          "issued": "2025-09-26"
+        },
+        {
+          "href": "https://apps.who.int/iris/bitstream/handle/10665/310968/WER9408.pdf",
+          "via": "handle in the link",
+          "handle": "10665/310968",
+          "title": "Weekly Epidemiological Record, 2019, vol. 94, 08 [full issue]",
+          "issued": "2019-02-22"
+        }
+      ],
+      "status": "resolved",
+      "via": "IRIS download link on the who.int publication page",
+      "href": "https://www.who.int/publications/i/item/who-wer10039-411-437",
+      "handle": "10665/382925",
+      "title": "WHO position paper: Pneumococcal conjugate vaccines in infants and children aged <5 years – September 2025 = Note de synthèse de l’OMS : vaccins antipneumococciques conjugués chez les nourrissons et les enfants de <5 ans – septembre 2025",
+      "issued": "2025-09-26",
+      "rejected": [
+        {
+          "handle": "10665/310968",
+          "title": "Weekly Epidemiological Record, 2019, vol. 94, 08 [full issue]",
+          "issued": "2019-02-22",
+          "why": "issued 2019-02-22, not in the printed year 2025"
+        }
+      ],
+      "linkMismatches": [
+        "https://apps.who.int/iris/bitstream/handle/10665/310968/WER9408.pdf is 10665/310968 \"Weekly Epidemiological Record, 2019, vol. 94, 08 [full issue]\", issued 2019-02-22; the citation printed beside it is WER 2025, 39:411-437"
+      ]
+    },
+    "WER 2025, 47:567-590": {
+      "printedAs": [
+        "Position paper reference: Weekly Epid. Record (2025, 47: 567-590).",
+        "Varicella vaccines, WHO Position Paper, Weekly Epidemiological Record, 2025, 47: 567-590"
+      ],
+      "citedFrom": [
+        "summary-table-1 footnote 24 (p. 13)",
+        "summary-table-2 footnote 24 (p. 14)",
+        "summary-table-3 footnote 24 (p. 8)",
+        "summary-table-4 reference 9 (p. 2)"
+      ],
+      "topic": "Varicella",
+      "links": [
+        {
+          "href": "https://www.who.int/teams/immunization-vaccines-and-biologicals/policies/position-papers/varicella",
+          "unresolved": "a who.int topic page, listing every position paper on the antigen"
+        }
+      ],
+      "search": {
+        "query": "Varicella position paper",
+        "hits": [
+          {
+            "handle": "10665/383615",
+            "title": "WHO position paper on varicella vaccines – November 2025 = Vaccins contre la varicelle: note de synthèse de l’OMS – Novembre 2025",
+            "issued": "2025-11-21"
+          }
+        ]
+      },
+      "status": "resolved",
+      "via": "search",
+      "handle": "10665/383615",
+      "title": "WHO position paper on varicella vaccines – November 2025 = Vaccins contre la varicelle: note de synthèse de l’OMS – Novembre 2025",
+      "issued": "2025-11-21"
+    }
+  }
+}

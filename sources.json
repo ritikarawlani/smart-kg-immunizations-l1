@@ -1,0 +1,306 @@
+{
+  "note": "Every source this graph is built from, pinned by sha256. tools/fetch.mjs downloads them into sources/ (not committed) and refuses a file whose hash has moved; re-pin deliberately with --repin. `cites` is the DAK's own reference number for the source (section 1.2 of ISBN 9789240099456 and its reference list p. 84-85). `link` is the address the DAK's section 1.2 hyperlinks to, where it differs from the reference list.",
+  "dak": {
+    "id": "dak",
+    "file": "9789240099456-eng.pdf",
+    "download": "https://iris.who.int/server/api/core/bitstreams/3fb30834-6876-4329-bf1d-6f6035caa624/content",
+    "landing": "https://iris.who.int/handle/10665/380303",
+    "sha256": "6b0f603e2a792bb4e81014b4e3302d450c4b5be8c72ac4106723610ec7db0303",
+    "title": "Digital adaptation kit for immunizations: operational requirements for implementing WHO recommendations in digital systems",
+    "publisher": "World Health Organization",
+    "issued": "2024",
+    "identifiers": [
+      {
+        "type": "isbn",
+        "value": "9789240099456"
+      },
+      {
+        "type": "isbn",
+        "value": "9789240099463",
+        "note": "print"
+      },
+      {
+        "type": "iris-handle",
+        "value": "10665/380303"
+      }
+    ],
+    "rights": "CC BY-NC-SA 3.0 IGO",
+    "language": "en",
+    "publicationType": "implementation-guidance",
+    "grcStatus": "not-required",
+    "section": {
+      "number": "1.2",
+      "heading": "WHO guidelines, recommendations and guidance",
+      "page": 27,
+      "printedPage": "17"
+    },
+    "referenceList": {
+      "pages": [
+        94,
+        95
+      ],
+      "printedPages": "84-85",
+      "accessed": "10 July 2024"
+    }
+  },
+  "sources": [
+    {
+      "id": "summary-tables",
+      "kind": "web-page",
+      "cites": "29",
+      "landing": "https://www.who.int/teams/immunization-vaccines-and-biologicals/policies/who-recommendations-for-routine-immunization---summary-tables",
+      "title": "WHO recommendations for routine immunization – summary tables",
+      "publisher": "World Health Organization",
+      "identifiers": [
+        {
+          "type": "url",
+          "value": "https://www.who.int/teams/immunization-vaccines-and-biologicals/policies/who-recommendations-for-routine-immunization---summary-tables"
+        }
+      ],
+      "publicationType": "summary-table",
+      "grcStatus": "not-required"
+    },
+    {
+      "id": "summary-table-1",
+      "file": "summary-table-1.pdf",
+      "cites": "29",
+      "link": "https://www.who.int/publications/m/item/table1-summary-of-who-position-papers-recommendations-for-routine-immunization",
+      "download": "https://cdn.who.int/media/docs/default-source/immunization/immunization_schedules/immunization-summary-table-1.pdf?sfvrsn=2e112cea_16&download=true",
+      "sha256": "9861c483644986f477485fdf98f61f493a4f1e2ace8e20f48c04ba70e0d18f8d",
+      "title": "Table 1: Summary of WHO Position Papers – Recommendations for Routine Immunization",
+      "publisher": "World Health Organization",
+      "issued": "2025-12",
+      "identifiers": [
+        {
+          "type": "url",
+          "value": "https://www.who.int/publications/m/item/table1-summary-of-who-position-papers-recommendations-for-routine-immunization"
+        }
+      ],
+      "publicationType": "summary-table",
+      "grcStatus": "not-required",
+      "parse": "notes"
+    },
+    {
+      "id": "summary-table-2",
+      "file": "summary-table-2.pdf",
+      "cites": "29",
+      "link": "https://www.who.int/publications/m/item/table-2-summary-of-who-position-papers-recommended-routine-immunizations-for-children",
+      "download": "https://cdn.who.int/media/docs/default-source/immunization/immunization_schedules/immunization-summary-table-2.pdf?sfvrsn=c10d5c2_12&download=true",
+      "sha256": "ad39704721d999437c3856de0ccb1e825e4f414358142f3bb5970da031fbe025",
+      "title": "Table 2: Summary of WHO Position Papers - Recommended Routine Immunizations for Children",
+      "publisher": "World Health Organization",
+      "issued": "2025-12",
+      "identifiers": [
+        {
+          "type": "url",
+          "value": "https://www.who.int/publications/m/item/table-2-summary-of-who-position-papers-recommended-routine-immunizations-for-children"
+        }
+      ],
+      "publicationType": "summary-table",
+      "grcStatus": "not-required",
+      "parse": "notes"
+    },
+    {
+      "id": "summary-table-3",
+      "file": "summary-table-3.pdf",
+      "cites": "29",
+      "link": "https://www.who.int/publications/m/item/table-3-recommendations-for-interrupted-or-delayed-routine-immunization-summary-of-who-position-papers",
+      "download": "https://cdn.who.int/media/docs/default-source/immunization/immunization_schedules/immunization-summary-table-3.pdf?sfvrsn=7c2de9f9_12&download=true",
+      "sha256": "aead588449159c46bad3a190f6427f4bf3d53ead55786b165105ccffaeb357a2",
+      "title": "Table 3: Recommendations for Interrupted or Delayed Routine Immunization - Summary of WHO Position Papers",
+      "publisher": "World Health Organization",
+      "issued": "2025-12",
+      "identifiers": [
+        {
+          "type": "url",
+          "value": "https://www.who.int/publications/m/item/table-3-recommendations-for-interrupted-or-delayed-routine-immunization-summary-of-who-position-papers"
+        }
+      ],
+      "publicationType": "summary-table",
+      "grcStatus": "not-required",
+      "parse": "notes"
+    },
+    {
+      "id": "summary-table-4",
+      "file": "summary-table-4.pdf",
+      "cites": "29",
+      "link": "https://www.who.int/publications/m/item/table-4-summary-of-who-position-papers-immunization-of-health-care-workers",
+      "download": "https://cdn.who.int/media/docs/default-source/immunization/immunization_schedules/immunization-summary-table-4.pdf?sfvrsn=9d191481_10&download=true",
+      "sha256": "e821b7b570ddb9ec58d779609cbc7c5f1592d67dcb53aa578e4669beb74bc59a",
+      "title": "Table 4: Summary of WHO Position Papers – Immunization of Health Care Workers",
+      "publisher": "World Health Organization",
+      "issued": "2025-12",
+      "identifiers": [
+        {
+          "type": "url",
+          "value": "https://www.who.int/publications/m/item/table-4-summary-of-who-position-papers-immunization-of-health-care-workers"
+        }
+      ],
+      "publicationType": "summary-table",
+      "grcStatus": "not-required",
+      "parse": "table4"
+    },
+    {
+      "id": "facility-data-guidance",
+      "file": "facility-analysis.pdf",
+      "cites": "26",
+      "link": "https://www.who.int/publications/m/item/analysis-and-use-of-health-facility-data-guidance-for-immunization-programme-managers",
+      "download": "https://cdn.who.int/media/docs/default-source/documents/ddi/facilityanalysisguide-immunization.pdf?sfvrsn=3cb62a74_2&download=true",
+      "sha256": "899513a64de612a66e318efdd8ed84ec1d63eec3a72bba49f73bdfefe387d01b",
+      "title": "Analysis and use of health facility data: guidance for immunization programme managers",
+      "publisher": "World Health Organization",
+      "issued": "2018",
+      "identifiers": [
+        {
+          "type": "url",
+          "value": "https://www.who.int/publications/m/item/analysis-and-use-of-health-facility-data-guidance-for-immunization-programme-managers"
+        }
+      ],
+      "publicationType": "implementation-guidance",
+      "grcStatus": "not-required",
+      "sections": "toc",
+      "tocPages": [
+        7,
+        7
+      ]
+    },
+    {
+      "id": "jrf-sample",
+      "kind": "spreadsheet",
+      "cites": "30",
+      "download": "https://data.unicef.org/wp-content/uploads/2015/12/WHO_UNICEF_JRF_EN_2016.xls",
+      "unavailable": "data.unicef.org answers this URL with a Cloudflare challenge page (HTTP 403), so the file was not read and carries no sha256.",
+      "title": "Sample of the WHO/UNICEF joint report form on immunization",
+      "publisher": "World Health Organization and United Nations Children's Fund",
+      "issued": "2016",
+      "identifiers": [
+        {
+          "type": "url",
+          "value": "https://data.unicef.org/wp-content/uploads/2015/12/WHO_UNICEF_JRF_EN_2016.xls"
+        }
+      ],
+      "publicationType": "implementation-guidance",
+      "grcStatus": "not-required"
+    },
+    {
+      "id": "immunization-data-portal",
+      "kind": "web-page",
+      "cites": "24",
+      "link": "https://www.who.int/data/immunization",
+      "title": "Immunization dashboard",
+      "publisher": "World Health Organization",
+      "identifiers": [
+        {
+          "type": "url",
+          "value": "https://immunizationdata.who.int"
+        }
+      ],
+      "note": "A data portal, not a document. The DAK's reference list gives https://immunizationdata.who.int; its section 1.2 links to https://www.who.int/data/immunization and calls it 'The WHO Immunization Data Portal'. No publication type in the L1 value set fits a data portal, so none is recorded."
+    },
+    {
+      "id": "leave-no-one-behind",
+      "file": "leave-no-one-behind.pdf",
+      "cites": "31",
+      "link": "https://www.who.int/publications/i/item/9789240016514",
+      "download": "https://iris.who.int/server/api/core/bitstreams/cc473940-9ff5-4953-9c0a-df6559eb9596/content",
+      "sha256": "f13c21a9eec89c9b36112f6cb50b5de83bdbe4b541e650ba0ef39402c6cbedca",
+      "title": "Leave no one behind: guidance for planning and implementing catch-up vaccination",
+      "publisher": "World Health Organization",
+      "issued": "2021",
+      "identifiers": [
+        {
+          "type": "isbn",
+          "value": "9789240016514"
+        },
+        {
+          "type": "isbn",
+          "value": "9789240016521",
+          "note": "print"
+        },
+        {
+          "type": "iris-handle",
+          "value": "10665/340749"
+        }
+      ],
+      "publicationType": "implementation-guidance",
+      "grcStatus": "not-required",
+      "sections": "toc",
+      "tocPages": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": "electronic-immunization-registry",
+      "file": "paho-eir.pdf",
+      "cites": "15",
+      "link": "https://iris.paho.org/handle/10665.2/34865",
+      "download": "https://iris.paho.org/server/api/core/bitstreams/bdf7fd07-5f15-478c-bfab-e76df4d756cd/content",
+      "sha256": "1010a882f2c1990aec1b6ad1f69a6eda548ba007f3c667db5c1edef1b87dcd34",
+      "title": "Electronic Immunization Registry: Practical Considerations for Planning, Development, Implementation and Evaluation",
+      "publisher": "Pan American Health Organization",
+      "issued": "2017",
+      "identifiers": [
+        {
+          "type": "isbn",
+          "value": "978-92-75-11953-2"
+        },
+        {
+          "type": "other",
+          "value": "https://iris.paho.org/handle/10665.2/34865",
+          "note": "PAHO IRIS handle 10665.2/34865. Not typed iris-handle, which names WHO IRIS."
+        }
+      ],
+      "publicationType": "implementation-guidance",
+      "grcStatus": "not-required",
+      "note": "A PAHO publication, not a WHO one. Its table of contents is set in two columns with no reliable dot leaders, so sections are not extracted."
+    },
+    {
+      "id": "covid-19-monitoring-metrics",
+      "file": "covid-metrics.pdf",
+      "cites": "32",
+      "link": "https://www.who.int/publications/m/item/monitoring-metrics-related-to-the-global-covid-19-vaccination-strategy-in-a-changing-world--july-2022-update",
+      "download": "https://www.who.int/docs/default-source/coronaviruse/monitoring-metrics-related-to-the-global-covid-19-vaccination-strategy---july-2022-update.pdf?sfvrsn=d527f0ac_1&download=true",
+      "sha256": "129415f7c33d6069c1e200fe2848ebbfbab0dcec2d78149012b7a9543d7f033e",
+      "title": "Monitoring metrics related to the global COVID-19 vaccination strategy in a changing world: July 2022 update",
+      "publisher": "World Health Organization",
+      "issued": "2022",
+      "identifiers": [
+        {
+          "type": "url",
+          "value": "https://www.who.int/publications/m/item/monitoring-metrics-related-to-the-global-covid-19-vaccination-strategy-in-a-changing-world--july-2022-update"
+        }
+      ],
+      "publicationType": "implementation-guidance",
+      "grcStatus": "not-required"
+    },
+    {
+      "id": "ddcc-vaccination-status",
+      "file": "ddcc-vs.pdf",
+      "cites": "28",
+      "link": "https://www.who.int/publications/i/item/WHO-2019-nCoV-Digital_certificates-vaccination-2021.1",
+      "download": "https://iris.who.int/server/api/core/bitstreams/aa9331fb-7b16-4bf7-8b9b-4d1d5141b19e/content",
+      "sha256": "f57b14cb2acb728d74f37934b2f16f21bc6f1841bbbe4fd0a878ed26c4e9c607",
+      "title": "Digital documentation of COVID-19 certificates: vaccination status: technical specifications and implementation guidance, 27 August 2021",
+      "publisher": "World Health Organization",
+      "issued": "2021",
+      "identifiers": [
+        {
+          "type": "iris-handle",
+          "value": "10665/343361"
+        },
+        {
+          "type": "other",
+          "value": "WHO/2019-nCoV/Digital_certificates/vaccination/2021.1"
+        }
+      ],
+      "publicationType": "implementation-guidance",
+      "grcStatus": "not-required",
+      "sections": "toc",
+      "tocPages": [
+        5,
+        8
+      ]
+    }
+  ]
+}
